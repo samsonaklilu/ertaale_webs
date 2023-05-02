@@ -1,7 +1,7 @@
 
 CONTENTS OF THIS FILE===yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 ---------------------
-999999999999999999999999999999999999
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  * About Drupal
  * Configuration and features
  * Installation profiles
